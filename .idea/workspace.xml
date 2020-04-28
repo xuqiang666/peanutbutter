@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4409a64-0fd4-4cde-b618-23ce5cfa5dae" name="Default Changelist" comment="myFirstCommit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeQuickStart000.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Greed/AssignCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Greed/findMinArrowShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Greed/overlappingIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Greed/reconstructQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Greed/AssignCookies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Greed/findMinArrowShots$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Greed/findMinArrowShots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Greed/overlappingIntervals$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Greed/overlappingIntervals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Greed/reconstructQueue$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Greed/reconstructQueue.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\MyProjects\LeetCodeQuickStart000\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1abT6Yq9kQSikUhOoAj8m9bRY6M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.reconstructQueue.test6768">
+    <configuration name="AssignCookies.test03403" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodeQuickStart000" />
+      <option name="PACKAGE_NAME" value="Greed" />
+      <option name="MAIN_CLASS_NAME" value="Greed.AssignCookies" />
+      <option name="METHOD_NAME" value="test03403" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="overlappingIntervals.testo8989" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodeQuickStart000" />
+      <option name="PACKAGE_NAME" value="Greed" />
+      <option name="MAIN_CLASS_NAME" value="Greed.overlappingIntervals" />
+      <option name="METHOD_NAME" value="testo8989" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reconstructQueue.test6768" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodeQuickStart000" />
+      <option name="PACKAGE_NAME" value="Greed" />
+      <option name="MAIN_CLASS_NAME" value="Greed.reconstructQueue" />
+      <option name="METHOD_NAME" value="test6768" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.reconstructQueue.test6768" />
+        <item itemvalue="JUnit.overlappingIntervals.testo8989" />
+        <item itemvalue="JUnit.AssignCookies.test03403" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="myFirstCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="myFirstCommit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1588057610032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588057610032" />
+    <state x="421" y="65" key="FileChooserDialogImpl" timestamp="1588057464509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="65" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588057464509" />
+    <state width="1281" height="170" key="GridCell.Tab.0.bottom" timestamp="1587029687033">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587029687033" />
+    <state width="1281" height="170" key="GridCell.Tab.0.center" timestamp="1587029687033">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587029687033" />
+    <state width="1281" height="170" key="GridCell.Tab.0.left" timestamp="1587029687033">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587029687033" />
+    <state width="1281" height="170" key="GridCell.Tab.0.right" timestamp="1587029687033">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587029687033" />
+    <state x="288" y="38" width="707" height="604" key="NewModule_or_Project.wizard" timestamp="1587086292891">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="288" y="38" width="707" height="604" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1587086292891" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588057429848">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588057429848" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587026328347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587026328347" />
+  </component>
+</project>
