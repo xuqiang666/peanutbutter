@@ -13,10 +13,9 @@ public class findMinArrowShots {
     public int greedFindMinArrowShots(int[][] points) {
 
         if(points.length == 0) return 0;
-        //Arrays.sort(points,(a,b) -> (a[1] - b[1]));
         Arrays.sort(points, new Comparator<int[]>() {
             public int compare(int[] a, int[] b) {
-                return (a[1] - b[1]);
+                return Integer.compare(a[1], b[1]);
             }
         });
 
